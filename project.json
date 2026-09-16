@@ -1,0 +1,41 @@
+{
+  "id": 83,
+  "category": "pc-utility",
+  "slug": "browser-resource-journal",
+  "target": "Desktop browsers",
+  "appid": null,
+  "summaryRu": "Сравнение ресурсов браузера по собственным замерам без чтения истории и паролей.",
+  "features": [
+    "Tab workload manifest",
+    "Extension experiment notes",
+    "Memory sample comparisons"
+  ],
+  "title": "TabFootprint — Desktop browsers — Browsing",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "general-platform-context",
+      "sourceId": "windows-performance",
+      "detail": "General Windows performance context, not endorsement or validation of this proposed utility."
+    }
+  ],
+  "brand": "TabFootprint",
+  "repositoryName": "tabfootprint-browser-resource-journal-browsing",
+  "githubTopics": [
+    "desktop-browsers",
+    "browser-performance",
+    "memory-measurement",
+    "extension-review",
+    "windows",
+    "pc-diagnostics",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "browsing"
+}
